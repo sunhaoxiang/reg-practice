@@ -92,7 +92,16 @@ export default {
     }
   },
   created () {
-    console.log('123')
+    // let regex = /hello/
+    // console.log(regex.test('hello'))
+    
+    // let regex = /ab{2,5}c/g
+    // let string = 'abc abbc abbbc abbbbc abbbbbc abbbbbbc'
+    // console.log(string.match(regex))
+
+    // let regex = /a[123]b/g
+    // let string = 'a0b a1b a2b a3b a4b'
+    // console.log(string.match(regex))
   }
 }
 </script>
